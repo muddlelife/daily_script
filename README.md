@@ -5,4 +5,5 @@
 
 佛系更新
 
-[one_scan_enough：masscan与nmap集成](./masscan_nmap/)
+* [one_scan_enough：masscan与nmap集成](./masscan_nmap/)
+* [dns_shoot：DNS性能测试](./dns_shoot/)
