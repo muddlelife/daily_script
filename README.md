@@ -8,3 +8,4 @@
 * [one_scan_enough：masscan与nmap集成](./masscan_nmap/)
 * [dns_shoot：DNS性能测试](./dns_shoot/)
 * [web_finger_identify：Web指纹识别](./finger_identify/)
+* [get_ip_from_domain：通过域名获取IP地址](./get_ip_from_domain/)
