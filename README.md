@@ -9,3 +9,4 @@
 * [dns_shoot：DNS性能测试](./dns_shoot/)
 * [web_finger_identify：Web指纹识别](./finger_identify/)
 * [get_ip_from_domain：通过域名获取IP地址](./get_ip_from_domain/)
+* [query_icp: 备案号查询](./备案号查询/)
